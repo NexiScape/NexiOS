@@ -8,10 +8,7 @@ Commercial distribution is strictly prohibited by law.
 The following people deserve special recognition for sharing
 their research, tweaks, programming skills, test results, and
 technical support. This iso would not exist without them:
-Adam, Amit, Bored, Bunny, Calypto, CatGamer, Cyanide, Danske,
-Des1de, EverythingTech, Fanta, KGCT, Melody, Nani, Riot, 
-SuperStrikE, Timecard, Tom, Velo, Zusier, the NTLite team, 
-the Revision team, the Server.bat team, and countless more
+the NTLite team, and countless more
 unknown posters on forums and other websites.
 ### Legal Notice
 This project is not affiliated with or endorsed by Microsoft
