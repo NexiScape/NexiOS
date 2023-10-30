@@ -1,5 +1,5 @@
 # NexiOS
-Experience Windows 10 with hundreds of latency, performance, privacy, and quality of life tweaks.
+Experience Windows 11 with hundreds of latency, performance, privacy, and quality of life tweaks.
 ### Distribution
 NexiOS is offered free of charge, and should only be
 downloaded from an official source. Please report abuse.
